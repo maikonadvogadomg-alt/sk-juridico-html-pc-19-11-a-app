@@ -18,9 +18,9 @@
     "electron-builder": "25.1.8"
   },
   "build": {
-    "appId": "com.maikon.skjuridico.html.pc.nteste11191707",
-    "productName": "SK Jurídico HTML (teste 11191707)",
-    "executableName": "SKJuridicoHTML-nteste11191707",
+    "appId": "com.maikon.skjuridico.html.pc.nteste11191708",
+    "productName": "SK Jurídico HTML (teste 11191708)",
+    "executableName": "SKJuridicoHTML-nteste11191708",
     "directories": {
       "output": "release"
     },
@@ -42,13 +42,13 @@
       "perMachine": false,
       "createDesktopShortcut": true,
       "createStartMenuShortcut": true,
-      "shortcutName": "SK Jurídico HTML (teste 11191707)",
-      "artifactName": "SKJuridicoHTML-nteste11191707-Instalar.exe",
+      "shortcutName": "SK Jurídico HTML (teste 11191708)",
+      "artifactName": "SKJuridicoHTML-nteste11191708-Instalar.exe",
       "include": "electron/instalar.nsh"
     },
     "portable": {
-      "artifactName": "SKJuridicoHTML-nteste11191707-sem-instalar.exe"
+      "artifactName": "SKJuridicoHTML-nteste11191708-sem-instalar.exe"
     }
   },
-  "portaDoPrograma": 8496
+  "portaDoPrograma": 8499
 }
